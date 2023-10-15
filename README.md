@@ -1,9 +1,11 @@
-  👋 Hi,
-  I’m Moustapha Sene alias Mousto A.k.A Lilto
-  ⚔️ Quality and clean code is the motto
-  - Want to know more? Go [here](https://www.linkedin.com/in/moustapha-bassirou-sene-6012a1140/)
-  [📫](moustapha.b.sene@gmail.com) me
-  😄 Looking forward to work on innovative web projects
+  👋 Hi, I’m Moustapha Sene alias Mousto A.k.A Lilto
+  
+  ⚔️ Quality and clean code is my motto
+  
+  😄 I'm Looking forward to work on innovative web projects
+  
+  [📫 me!](moustapha.b.sene@gmail.com)
+  
 
 <!--
 **MoustoLilto/MoustoLilto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
