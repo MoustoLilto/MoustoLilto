@@ -4,8 +4,6 @@
   
   😄 I'm Looking forward to work on innovative web projects
   
-  [📫 me!](moustapha.b.sene@gmail.com)
-  
 
 <!--
 **MoustoLilto/MoustoLilto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
